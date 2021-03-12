@@ -6,7 +6,7 @@ In this Interview, Shivani shares her journey, how she started contributing to F
 <br><br>
 [**Vishal**]
 
-**Tell me about yourself**
+**Tell me about yourself.**
 
 [**Shivani**]
 
