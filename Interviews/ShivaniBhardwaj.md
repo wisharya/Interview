@@ -1,6 +1,6 @@
 In this Interview, Shivani shares her journey, how she started contributing to FOSS, her views on the current education system and what approach students and young developers should take to learn to program, her thoughts on the gender diversity gap in the FOSS ecosystem.
 
-[Shivani Bharadwaj](https://about.me/shivani.bhardwaj) works for [The Open Information Security Foundation](https://oisf.net/), a non-profit organization created to build community and to support open source security technologies. She is interested in Programming, Linux and Mathematics. 
+[Shivani Bhardwaj](https://about.me/shivani.bhardwaj) works for [The Open Information Security Foundation](https://oisf.net/), a non-profit organization created to build community and to support open source security technologies. She is interested in Programming, Linux and Mathematics. Read this Interview to know more about her journey and her work.
 
 #### Interview
 <br><br>
@@ -13,7 +13,7 @@ In this Interview, Shivani shares her journey, how she started contributing to F
 I'm Shivani: The developer who does not need caffeine. I flaunt about it because every developer that
 I know is a coffee addict. ;) I have no particular place to stay so I keep on moving around and working from different places (unless there is a pandemic). I have been working for almost 4 years now (wow didn't realize it myself!)
 out of which a little over 2 years have been with a non-profit organization, The Open Information Security
-Foundation developing helper tools and parts of Suricata IDS (which is FOSS and awesome, check it out! :) )
+Foundation developing helper tools and parts of [Suricata IDS](https://suricata-ids.org/) (which is FOSS and awesome, check it out! :) )
 I love mountains, food and anything fluffy. I do not like debating whether cats are better or dogs are.
 (Because we all know the answer)
 
@@ -109,6 +109,8 @@ build a better life for themselves.
 [Know more about Shivani Bharadwaj](https://about.me/shivani.bhardwaj)
 
 [A couch potato's promenade](https://unixia.wordpress.com/), Shivani's blogging site
+
+[Learn about Suricata IDS](https://suricata-ids.org/)
 
 Read our [other interviews](https://fossunited.org/blog/interview)
 <br><br>
