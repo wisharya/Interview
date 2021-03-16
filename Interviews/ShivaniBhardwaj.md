@@ -110,7 +110,9 @@ build a better life for themselves.
 
 [A couch potato's promenade](https://unixia.wordpress.com/), Shivani's blogging site
 
-[Learn about Suricata IDS](https://suricata-ids.org/)
+Learn about [Suricata IDS](https://suricata-ids.org/)
+
+Learn about [Outreachy Program](https://www.outreachy.org/)
 
 Read our [other interviews](https://fossunited.org/blog/interview)
 <br><br>
